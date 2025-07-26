@@ -4,7 +4,7 @@
 
 // 1. تضمين ملف الإعدادات وقاعدة البيانات
 require_once __DIR__ . '/config.php';
-require_once __DIR__ . '/path/to/facebook-php-sdk-v5/src/Facebook/autoload.php'; // Facebook SDK
+require_once __DIR__ . '/vendor/autoload.php'; // Facebook SDK
 require_once __DIR__ . '/helpers.php'; // الدوال المساعدة
 
 // دالة تسجيل الأنشطة (نفس الدالة المستخدمة في الكرون جوب)
