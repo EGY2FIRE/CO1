@@ -1,0 +1,6 @@
+[2025-07-25 04:44:45][debug] page_details.php accessed. GET[page_id]: 0, IS_NUMERIC: TRUE
+[2025-07-25 04:44:45][error] Page ID 0 not found or not owned by user 4. Displaying error message.
+[2025-07-25 04:44:47][debug] page_details.php accessed. GET[page_id]: 0, IS_NUMERIC: TRUE
+[2025-07-25 04:44:47][error] Page ID 0 not found or not owned by user 4. Displaying error message.
+[2025-07-25 04:44:51][debug] page_details.php accessed. GET[page_id]: 0, IS_NUMERIC: TRUE
+[2025-07-25 04:44:51][error] Page ID 0 not found or not owned by user 4. Displaying error message.

@@ -1,0 +1,7 @@
+[2025-07-25 05:28:35][info] Access Token received successfully.
+[2025-07-25 05:28:35][info] Long-Lived Access Token obtained. Expiry: N/A
+[2025-07-25 05:28:36][info] Facebook User Info fetched. ID: 402498302702739, Name: Youssef Saber
+[2025-07-25 05:28:36][debug] User default settings fetched. Interval: 15, Limit: 6, Since: 3 hours.
+[2025-07-25 05:28:37][info] Processing Facebook Page: رفيق (FB ID: 250331318168822)
+[2025-07-25 05:28:37][debug] Page 'رفيق' already exists in DB with ID: 11. Updating.
+[2025-07-25 05:28:37][info] New account link for 'Youssef Saber' on page 'رفيق' inserted. DB Link ID: 26.
