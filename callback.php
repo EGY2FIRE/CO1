@@ -2,7 +2,7 @@
 require_once 'auth_check.php'; // تأكد من تسجيل دخول المستخدم
 require_once 'config.php';
 
-require_once '/vendor/autoload.php'; // استبدل بالمسار الصحيح
+require_once 'vendor/autoload.php'; // استبدل بالمسار الصحيح
 
 $fb = new Facebook\Facebook([
     'app_id' => FB_APP_ID,
