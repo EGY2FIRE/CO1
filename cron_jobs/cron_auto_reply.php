@@ -9,7 +9,7 @@ require_once __DIR__ . '/../config.php';
 
 // 2. تضمين Facebook SDK
 // نفترض أن مجلد 'vendor' (الناتج عن Composer) موجود في المجلد الأب (المجلد الرئيسي للمشروع)
-require_once __DIR__ . '/../path/to/facebook-php-sdk-v5/src/Facebook/autoload.php';
+require_once __DIR__ . '/../vendor/autoload.php';
 
 // استخدام الـ Classes المطلوبة من Facebook SDK
 use Facebook\Facebook;
