@@ -3,7 +3,7 @@ require_once 'auth_check.php'; // تأكد من تسجيل دخول المستخ
 require_once 'config.php';
 
 // تضمين Facebook SDK (إذا كنت تستخدم Composer)
-require_once 'path/to/facebook-php-sdk-v5/src/Facebook/autoload.php'; // استبدل بالمسار الصحيح
+require_once 'vendor/autoload.php'; // استبدل بالمسار الصحيح
 
 $fb = new Facebook\Facebook([
     'app_id' => FB_APP_ID,
